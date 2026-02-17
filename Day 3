@@ -1,0 +1,11 @@
+public class IfExample {
+    public static void main(String[] args) {
+
+        int marks = 65;
+
+        if (marks >= 50) {
+            System.out.println("PASS");
+        }
+    }
+}
+
